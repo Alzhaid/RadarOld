@@ -1,0 +1,3 @@
+28feb: draw n circles
+1mar: draw some coloured points
+2mar: do something when the mouse goes over a point
